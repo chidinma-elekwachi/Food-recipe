@@ -72,7 +72,7 @@ nav{
     top: 0;
     left: 0;
     z-index: 999;
-    background-color: #F5DEB3;
+    background-color: whitesmoke;
 }
 
 /* This is the media query for smaller screens */
@@ -270,7 +270,7 @@ footer{
     width: 100%;
     padding: 25px;
     background-color: rgb(133, 53, 53);
-    color: #F5DEB3;
+    color: whitesmoke;
 }
 #foot-text{
     font-size: 20px;

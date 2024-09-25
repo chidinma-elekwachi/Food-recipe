@@ -48,7 +48,7 @@ nav{
     top: 0;
     left: 0;
     z-index: 999;
-    background-color: #F5DEB3;
+    background-color: whitesmoke;
 }
 main{
     padding-top: 7%;
@@ -57,7 +57,7 @@ main{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: rgb(255, 216, 143);
+    background-color: whitesmoke;
 }
 
 
@@ -116,7 +116,7 @@ main{
 .cont1{
     width: 45%;
     padding: 60px;
-    border: 1px solid #6B8E23;
+    border: 1px solid orange;
 }
 .cont1 h1{
     font-size: 4rem;
@@ -126,7 +126,7 @@ main{
 }
 .cont2{
     width: 55%;
-    border: 1px solid #6B8E23;
+    border: 1px solid orange;
     padding: 20px;
     padding-left: 0;
     text-align: center;
@@ -170,8 +170,8 @@ main{
     padding-top: 40px;
 }
 hr{
-    color: #6B8E23;
-    border: 1px solid #6B8E23;
+    color: orange;
+    border: 1px solid orange;
 }
 
 
@@ -212,7 +212,7 @@ hr{
 .classic-recipes > div {
     width: calc(33.33% - 20px); /* Each div takes up 33.33% of the container's width with a gap of 20px between them */
     box-sizing: border-box;
-    background-color: #6B8E23;
+    background-color: rgb(255, 212, 133);
     padding: 7px;
     border-radius: 10px;
 }
@@ -269,7 +269,7 @@ footer{
     width: 100%;
     padding: 25px;
     background-color: rgb(133, 53, 53);
-    color: #F5DEB3;
+    color: whitesmoke;
 }
 #foot-text{
     font-size: 20px;

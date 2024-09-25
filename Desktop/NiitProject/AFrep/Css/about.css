@@ -77,7 +77,7 @@ nav{
     top: 0;
     left: 0;
     z-index: 999;
-    background-color: #F5DEB3;
+    background-color: whitesmoke;
 }
 
 
@@ -147,7 +147,7 @@ input {
     width: 60%;
     margin-bottom: 20px; /* Add some spacing between inputs */
     height: 30px;
-    background-color: #F5DEB3;
+    background-color: whitesmoke;
     outline: none;
     /* To remove the outline */
 }
@@ -155,7 +155,7 @@ input {
 #submit {
     height: 40px;
     width: 40%;
-    background-color: #6B8E23;
+    background-color: orange;
     color: white;
     border-bottom: none;
 }
@@ -238,7 +238,7 @@ input {
 .cont1{
     width: 45%;
     padding: 60px;
-    border: 1px solid #6B8E23;
+    border: 1px solid orange;
 }
 .cont1 h1{
     font-size: 4rem;
@@ -248,7 +248,7 @@ input {
 }
 .cont2{
     width: 55%;
-    border: 1px solid #6B8E23;
+    border: 1px solid orange;
     padding: 20px;
     padding-left: 0;
     text-align: center;
@@ -317,7 +317,7 @@ footer{
     width: 100%;
     padding: 25px;
     background-color: rgb(133, 53, 53);
-    color: #F5DEB3;
+    color: whitesmoke;
 }
 #foot-text{
     font-size: 20px;
