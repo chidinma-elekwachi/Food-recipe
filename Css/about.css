@@ -27,12 +27,12 @@ html{
 }
 .main-txt p{
     padding-top: 10px;
-    font-size: 2.3rem;
+    font-size: 2rem;
     color: brown;
 }
 #headtxt{
     padding-top: 5px;
-    font-size: 2.5rem;
+    font-size: 2.2rem;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .main-txt a{
@@ -46,7 +46,7 @@ ul{
 }
 a{
     text-decoration: none;
-    font-size: 1.4rem;
+    font-size: 1.1rem;
     color: black;
 }
 .nav-links{
@@ -67,7 +67,7 @@ a:hover{
 }
 nav{
     display: flex;
-    gap: 20%;
+    gap: 20px;
     justify-content: space-around;
     border: 1px solid brown;
     padding: 10px;
@@ -77,7 +77,7 @@ nav{
     top: 0;
     left: 0;
     z-index: 999;
-    background-color: whitesmoke;
+    background-color: #FFF5E4;
 }
 
 
@@ -94,7 +94,7 @@ nav{
 }
 .hastag{
     width: 25%;
-    font-size: 2rem;
+    font-size: 1.7rem;
     font-weight: 800;
 }
 .welc{
@@ -106,7 +106,7 @@ nav{
     padding-bottom: 10%;
 }
 #headtxt2{
-    font-size: 2.1rem;
+    font-size: 1.8rem;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: 700;
     text-align: center;
@@ -125,7 +125,7 @@ nav{
 .teamimg h3{
     padding-top: 10px;
     text-align: center;
-    font-size: 1.5rem;
+    font-size: 1.2rem;
 }
 .teamimg p{
     color: brown;
@@ -147,7 +147,7 @@ input {
     width: 60%;
     margin-bottom: 20px; /* Add some spacing between inputs */
     height: 30px;
-    background-color: whitesmoke;
+    background-color: #FFF5E4;
     outline: none;
     /* To remove the outline */
 }
@@ -241,7 +241,7 @@ input {
     border: 1px solid orange;
 }
 .cont1 h1{
-    font-size: 4rem;
+    font-size: 3.7rem;
     line-height: 4.5rem;
     padding-bottom: 15px;
     color: brown;
@@ -317,7 +317,7 @@ footer{
     width: 100%;
     padding: 25px;
     background-color: rgb(133, 53, 53);
-    color: whitesmoke;
+    color: #FFF5E4;
 }
 #foot-text{
     font-size: 20px;

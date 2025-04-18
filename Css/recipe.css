@@ -26,7 +26,7 @@ html{
     padding: 200px;
 }
 .main-txts h1{
-    font-size: 3rem;
+    font-size: 2.7rem;
     color: rgb(42, 42, 42);
 }
 .main-txts a{
@@ -62,7 +62,7 @@ a:hover{
 }
 nav{
     display: flex;
-    gap: 20%;
+    gap: 20px;
     justify-content: space-around;
     border: 1px solid brown;
     padding: 10px;
@@ -72,7 +72,7 @@ nav{
     top: 0;
     left: 0;
     z-index: 999;
-    background-color: whitesmoke;
+    background-color: #FFF5E4;
 }
 
 /* This is the media query for smaller screens */
@@ -123,17 +123,17 @@ nav{
 .cont1{
     width: 45%;
     padding: 60px;
-    border: 1px solid #6B8E23;
+    border: 1px solid orange;
 }
 .cont1 h1{
-    font-size: 4rem;
+    font-size: 3.7rem;
     line-height: 4.5rem;
     padding-bottom: 15px;
     color: brown;
 }
 .cont2{
     width: 55%;
-    border: 1px solid #6B8E23;
+    border: 1px solid orange;
     padding: 20px;
     padding-left: 0;
     text-align: center;
@@ -270,7 +270,7 @@ footer{
     width: 100%;
     padding: 25px;
     background-color: rgb(133, 53, 53);
-    color: whitesmoke;
+    color: #FFF5E4;
 }
 #foot-text{
     font-size: 20px;
